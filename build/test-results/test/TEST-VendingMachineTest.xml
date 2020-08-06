@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VendingMachineTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-08-06T19:33:51" hostname="Jessicas-MacBook-Pro-4.local" time="0.061">
+  <properties/>
+  <testcase name="itDecreasesTheDepositWhenBuying()" classname="VendingMachineTest" time="0.017"/>
+  <testcase name="itCancelsIfItDoesntMakeChange()" classname="VendingMachineTest" time="0.001"/>
+  <testcase name="allowsYouToSeeNonExistentItem()" classname="VendingMachineTest" time="0.002"/>
+  <testcase name="allowsYouToBuyItem()" classname="VendingMachineTest" time="0.001"/>
+  <testcase name="allowsYouToSeeItems()" classname="VendingMachineTest" time="0.001"/>
+  <testcase name="createsEmptyVendingMachine()" classname="VendingMachineTest" time="0.002"/>
+  <testcase name="doesntAllowYouToAddExistingItem()" classname="VendingMachineTest" time="0.001"/>
+  <testcase name="allowsYouToDepositMoney()" classname="VendingMachineTest" time="0.001"/>
+  <testcase name="allowsYouToSeeItem()" classname="VendingMachineTest" time="0.001"/>
+  <testcase name="allowsYouToSeeTotalSales()" classname="VendingMachineTest" time="0.002"/>
+  <testcase name="itTellsYouWhenYoureBroke()" classname="VendingMachineTest" time="0.001"/>
+  <testcase name="allowsYouToAddItem()" classname="VendingMachineTest" time="0.002"/>
+  <testcase name="itAlllowsYouToCancelDeposit()" classname="VendingMachineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
